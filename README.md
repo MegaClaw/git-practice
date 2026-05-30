@@ -4,3 +4,4 @@ branch a made this change
 branch b made this change
 
 pushed from wsl
+okay so now i am practicing the github pull command
